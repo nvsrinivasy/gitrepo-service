@@ -116,7 +116,7 @@
                 <version>0.10.1</version>
                 <configuration>
                     <from>
-                        <image>openjdk:8-jdk-slim</image>
+                        <image>openjdk:11-jdk-slim</image>
                     </from>
                     <to>
                         <image>registry.hub.docker.com/dockerdevy/gitrepo-service:${version}</image>
